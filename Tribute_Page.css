@@ -1,0 +1,100 @@
+body {
+ background-image: url("https://media.istockphoto.com/photos/brown-recycled-paper-crumpled-texture-background-cream-old-vintage-picture-id1278709873?b=1&k=20&m=1278709873&s=170667a&w=0&h=I7KaFvQN4G7p6EjkFNfKDr-9RUsNUPV8vTVhCSdG_pQ=");
+}
+h1
+{
+  text-align: center;
+  font-style: italic;
+  color: rgb(15, 15, 20);
+}
+#tata_image
+{
+
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+#brief
+{
+    font: 18px Times New Roman, sans-serif;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#achievement
+{
+  font: 18px Times New Roman, sans-serif,bold;
+  text-decoration: underline;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.achieve_Points
+{
+  font: 16px Times New Roman, sans-serif;
+   text-align: justify;
+     margin-left: 30px;
+    margin-right: 30px;
+  /* font-style: italic; */
+}
+#philanthropy
+{
+  font: 18px Times New Roman, sans-serif,bold;
+  text-decoration: underline;
+}
+.phil_Points
+{
+  font: 16px Times New Roman, sans-serif;
+}
+.container1:hover
+{
+  background-color: white;
+}
+.container2:hover
+{
+  background-color: white;
+}
+.container2
+{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#awards
+{
+  font: 18px Times New Roman, sans-serif,bold;
+  text-decoration: underline;
+}
+#awardsdetail
+{
+display: inline-block;
+width: 900px;
+text-align: left;
+}
+.container3:hover
+{
+  background-color: white;
+  height: 175px;
+
+}
+.container3
+{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+footer{
+     text-align: center;
+     font-size: 20px;
+ }
+ #padma
+ {
+  position: absolute;
+  top: 780px;
+  right: 0px;
+  width: 230px;
+  padding: 10px;
+  margin-right: 30px;
+ }
